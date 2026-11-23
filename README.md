@@ -1,7 +1,7 @@
 # The Witcher 3 theme for Eitr
 
 A dark [Eitr](https://eitr.info) theme with The Witcher 3: Wild Hunt art: medallion gold on
-night slate, with five wallpapers.
+night slate, with four wallpapers.
 
 ![Preview](witcher-3/preview.png)
 
